@@ -1,4 +1,6 @@
 'use client';
+// v2 - fixed landing page
+
 
 export default function Home() {
   return (
